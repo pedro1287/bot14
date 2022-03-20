@@ -1,8 +1,8 @@
 from MoodleClient import MoodleClient
 
-BOT_TOKEN = '5289976125:AAHnoPUkTdw9S0sWqMXYTpYJeeCVQ3B6wqs'
+BOT_TOKEN = '5243754583:AAHwVI1vFDF2wCAtvrIbEov6XcM2kElT2tQ'
 MAX_ZIP_SIZE = 100
-ACCES_USERS = ['obisoftdev','nautaii']
+ACCES_USERS = ['obisoftdev','Zeta30']
 CREDENTIALS = {'username':'etc1234','password':'Chida@123'}
 CACHE = {}
 
